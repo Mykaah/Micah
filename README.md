@@ -1,13 +1,13 @@
 # Micah
 Full name: Chinwe Micah Gbeke
 
-Email add: micahgbeke@gmail.com
+Email address: micahgbeke@gmail.com
 
 Slack Username: Micah
 
 Tracks: Frontend, Backend, Design.
 
-Courses Reg:
+Courses Registered:
 
 A. Frontend
 - HTML
