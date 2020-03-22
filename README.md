@@ -14,12 +14,14 @@ A. Frontend
 HTML
 CSS
 JavaScript
+
 B. Backend
 
 C#
 Python
 PHP
 Go
+
 C. Design
 
 UI/UX
